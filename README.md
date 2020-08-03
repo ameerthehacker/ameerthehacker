@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on React, Go, Node, Postgres
 - 🌱 I’m currently learning Golang, GraphQL
 - 💬 Ask me about Compilers, Architecture Design
